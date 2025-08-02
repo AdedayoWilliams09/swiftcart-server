@@ -24,7 +24,7 @@ app.use(cookieParser());
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://swiftcart-client-gamma.vercel.app'
+    'https://swiftcart-client-eta.vercel.app/'
   ],
   credentials: true,
 }));
